@@ -1,0 +1,101 @@
+﻿ID,Título do Filme,Gênero,Ano de Lançamento,Avaliação IMDb,País
+1,A Ascensão do Herói,Ação,2020,7.8,EUA
+2,Amor em Paris,Romance,2019,6.9,França
+3,O Último Planeta,Ficção Científica,2021,8.2,EUA
+4,Sombras do Passado,Suspense,2018,7.3,Reino Unido
+5,Noite de Mistério,Terror,2017,6.5,Canadá
+6,Coração de Aço,Ação,2022,7.9,EUA
+7,O Jardim Secreto,Drama,2016,7.1,Reino Unido
+8,Luzes da Cidade,Comédia,2015,7.4,Itália
+9,Tempestade Solar,Ficção Científica,2023,8.0,Alemanha
+10,Caminhos Cruzados,Drama,2018,7.2,Espanha
+11,A Ilha Perdida,Aventura,2019,7.7,Austrália
+12,Segredos Submersos,Mistério,2021,7.5,Noruega
+13,A Última Chance,Drama,2020,7.0,EUA
+14,O Código Oculto,Suspense,2022,8.1,EUA
+15,Mar de Fogo,Aventura,2017,7.6,Nova Zelândia
+16,O Encontro,Romance,2019,6.8,Brasil
+17,Horizonte Vermelho,Ficção Científica,2024,8.4,Japão
+18,Ecos do Silêncio,Terror,2020,6.7,Canadá
+19,O Destino de Clara,Drama,2021,7.3,Itália
+20,Além do Tempo,Fantasia,2016,7.8,EUA
+21,O Som do Amanhã,Musical,2019,7.1,Reino Unido
+22,Justiça Implacável,Ação,2022,8.0,EUA
+23,Laços Eternos,Romance,2017,7.0,França
+24,A Experiência,Ficção Científica,2018,7.6,Alemanha
+25,A Casa de Vidro,Suspense,2020,7.5,Canadá
+26,Caminho das Estrelas,Aventura,2023,8.3,EUA
+27,O Retrato,Drama,2015,7.2,Espanha
+28,Chamas da Vingança,Ação,2021,8.1,EUA
+29,Fragmentos da Verdade,Mistério,2020,7.4,Reino Unido
+30,O Voo da Liberdade,Drama,2018,7.8,França
+31,Sob a Lua Azul,Romance,2019,6.9,Itália
+32,Guerra Digital,Ficção Científica,2022,8.5,EUA
+33,Além do Horizonte,Aventura,2017,7.5,Austrália
+34,Memórias Perdidas,Suspense,2020,7.3,Espanha
+35,Fuga Impossível,Ação,2021,8.0,EUA
+36,As Vozes,Terror,2018,6.6,Canadá
+37,Aurora Boreal,Fantasia,2016,7.7,Noruega
+38,Amor & Café,Romance,2019,7.1,Brasil
+39,A 5ª Dimensão,Ficção Científica,2023,8.4,Japão
+40,O Refúgio,Drama,2021,7.2,Alemanha
+41,Um Novo Amanhecer,Aventura,2020,7.9,EUA
+42,O Enigma,Mistério,2022,8.0,Reino Unido
+43,Tempestade Mental,Suspense,2021,7.6,EUA
+44,Noite Eterna,Terror,2020,6.7,Canadá
+45,Lembranças de Ontem,Drama,2019,7.3,França
+46,O Caminho da Esperança,Aventura,2023,8.1,Espanha
+47,Horizonte de Fogo,Ação,2022,8.2,EUA
+48,Amor em Florença,Romance,2018,7.0,Itália
+49,Neblina,Mistério,2021,7.5,Alemanha
+50,Ecos do Passado,Suspense,2019,7.4,Reino Unido
+51,A Lenda do Dragão,Fantasia,2020,7.9,China
+52,Conexão Fatal,Ação,2023,8.3,EUA
+53,O Livro Perdido,Aventura,2021,7.7,Canadá
+54,Céu de Outubro,Drama,2018,7.2,EUA
+55,Sob o Mesmo Sol,Romance,2019,6.8,França
+56,Planeta Proibido,Ficção Científica,2022,8.4,Japão
+57,A Casa na Colina,Terror,2020,6.5,EUA
+58,O Despertar,Fantasia,2016,7.6,Reino Unido
+59,Fuga no Deserto,Ação,2021,8.0,Austrália
+60,Mar de Sombras,Suspense,2022,7.7,Alemanha
+61,A Promessa,Drama,2020,7.4,Espanha
+62,A Jornada,Aventura,2018,7.8,EUA
+63,Amor & Destino,Romance,2019,6.9,Itália
+64,Horizonte Sombrio,Ficção Científica,2023,8.3,EUA
+65,Silêncio Mortal,Terror,2017,6.7,Canadá
+66,Sombras da Noite,Suspense,2020,7.3,Reino Unido
+67,Códigos Secretos,Ação,2021,8.1,EUA
+68,O Vale Esquecido,Aventura,2018,7.5,Nova Zelândia
+69,Jardim de Inverno,Drama,2019,7.2,França
+70,O Mistério da Torre,Mistério,2021,7.6,Alemanha
+71,Asas do Futuro,Ficção Científica,2023,8.5,EUA
+72,Ecos do Amor,Romance,2020,7.0,Brasil
+73,A Tempestade,Ação,2022,8.2,EUA
+74,Segredos da Floresta,Fantasia,2018,7.7,Canadá
+75,O Guardião,Suspense,2021,7.5,Reino Unido
+76,Caminho Proibido,Terror,2017,6.6,EUA
+77,Luar de Inverno,Drama,2019,7.3,Itália
+78,Horizonte Perdido,Aventura,2020,7.8,Austrália
+79,O Código Final,Ação,2021,8.1,EUA
+80,Amor e Destino,Romance,2019,7.0,França
+81,A Dimensão Perdida,Ficção Científica,2023,8.4,Japão
+82,Vozes do Além,Terror,2020,6.8,Canadá
+83,O Enigma do Tempo,Suspense,2022,7.7,Reino Unido
+84,Sombras do Amanhã,Drama,2021,7.4,Alemanha
+85,Caminho das Estrelas 2,Aventura,2024,8.5,EUA
+86,O Último Suspiro,Ação,2022,8.2,EUA
+87,Corações em Chamas,Romance,2019,7.1,Brasil
+88,Universo Paralelo,Ficção Científica,2023,8.3,EUA
+89,A Lenda de Orion,Fantasia,2021,7.8,Reino Unido
+90,Ecos da Noite,Terror,2018,6.7,Canadá
+91,O Segredo de Sofia,Drama,2020,7.3,França
+92,Horizonte Final,Aventura,2023,8.2,EUA
+93,Amor em Veneza,Romance,2018,7.0,Itália
+94,O Código da Verdade,Suspense,2021,7.6,Alemanha
+95,Chamas do Destino,Ação,2022,8.0,EUA
+96,A Última Estrela,Ficção Científica,2024,8.4,Japão
+97,Sombras Profundas,Mistério,2021,7.5,Reino Unido
+98,Maré Alta,Drama,2020,7.2,Espanha
+99,O Guardião das Almas,Fantasia,2019,7.9,EUA
+100,O Amanhã Chegou,Ficção Científica,2024,8.6,EUA
